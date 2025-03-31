@@ -191,9 +191,9 @@ main {
     }
 
     .icon-3d {
-        scale: 0.8;
-        top: 20%;
-        right: 2%;
+        scale: 0.5;
+        top: 10%;
+        right: -10%;
     }
 }
 
@@ -223,7 +223,7 @@ main {
     .icon-3d {
         scale: 0.5;
         top: -25%;
-        right: 0;
+        right: 20%;
     }
 
     .content {
